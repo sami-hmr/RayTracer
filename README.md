@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="images/raytracer.png" alt="RayTracer" width="600"></a>
+  <img src="images/raytracer.png" alt="RayTracer" width="600">
   <br>
   RayTracer
   <br>
@@ -28,7 +28,7 @@
 
 ### Clone this repository
 ```bash
-git clone git@github.com:PouletHalal/RayTracer.git
+git clone git@github.com:sami-hmr/RayTracer.git
 ```
 
 ### Go into the repository
