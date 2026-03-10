@@ -15,6 +15,7 @@
 </p>
 
 ![screenshot](images/demo1.png)
+![screenshot](images/starwars.png)
 
 ## Key Features
 
